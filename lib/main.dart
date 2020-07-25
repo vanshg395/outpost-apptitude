@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:notesapp/screens/login_screen.dart';
 
 import './screens/home_screen.dart';
 import './screens/dash_screen.dart';
@@ -11,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Outpost',
-      home: DashScreen(),
+      home: LoginPage(),
     );
   }
 }

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "24777025231",
+    "firebase_url": "https://outpost-vs.firebaseio.com",
+    "project_id": "outpost-vs",
+    "storage_bucket": "outpost-vs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24777025231:android:15d43a239f4dcfb4e439ba",
+        "android_client_info": {
+          "package_name": "com.vamsatech.outpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24777025231-8j6pleusuf9d2n7v61mhm84jfad71vbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vamsatech.outpost",
+            "certificate_hash": "8813478ab88c18f0f7f9a42a3117a8d1a65212da"
+          }
+        },
+        {
+          "client_id": "24777025231-79j9j37751a0v74q8a6hj7ni4i3s1c59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8aRhqimWwieE5ponuF9YNBC1anktDufA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24777025231-79j9j37751a0v74q8a6hj7ni4i3s1c59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
