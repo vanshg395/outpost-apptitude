@@ -48,6 +48,7 @@ class MyDrawer extends StatelessWidget {
                       'Home',
                       style: Theme.of(context).textTheme.subtitle1,
                     ),
+                    onTap: () {},
                   ),
                   ListTile(
                     contentPadding: EdgeInsets.symmetric(horizontal: 20),
